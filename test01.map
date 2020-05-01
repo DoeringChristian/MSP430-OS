@@ -1,0 +1,658 @@
+Archive member included because of file (symbol)
+
+/home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib/libc.a(malloc.o)
+                              os.o (malloc)
+/home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_reset_vector__.o)
+                              /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o (_reset_vector__)
+/home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(__watchdog_support.o)
+                              /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_reset_vector__.o) (__watchdog_support)
+/home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(__init_stack.o)
+                              /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_reset_vector__.o) (__init_stack)
+/home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(__low_level_init.o)
+                              /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_reset_vector__.o) (__low_level_init)
+/home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_copy_data.o)
+                              /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_reset_vector__.o) (__do_copy_data)
+/home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_clear_bss.o)
+                              /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_reset_vector__.o) (__do_clear_bss)
+/home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(__stop_progExec__.o)
+                              /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_reset_vector__.o) (__stop_progExec__)
+/home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_endless_loop__.o)
+                              /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_reset_vector__.o) (_endless_loop__)
+/home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_unexpected_.o)
+                              /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o (_unexpected_)
+
+Allocating common symbols
+Common symbol       size              file
+
+buffer              0xa               main.o
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o
+ .bss           0x0000000000000000        0x0 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o
+ .text.crt0     0x0000000000000000        0x0 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o
+ .text          0x0000000000000000        0x0 main.o
+ .data          0x0000000000000000        0x0 main.o
+ .bss           0x0000000000000000        0x0 main.o
+ .bss.buffcount
+                0x0000000000000000        0x2 main.o
+ COMMON         0x0000000000000000        0xa main.o
+ .text          0x0000000000000000        0x0 os.o
+ .data          0x0000000000000000        0x0 os.o
+ .bss           0x0000000000000000        0x0 os.o
+ .data          0x0000000000000000        0x0 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib/libc.a(malloc.o)
+ .text          0x0000000000000000        0x0 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_reset_vector__.o)
+ .data          0x0000000000000000        0x0 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_reset_vector__.o)
+ .bss           0x0000000000000000        0x0 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_reset_vector__.o)
+ .text          0x0000000000000000        0x0 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(__watchdog_support.o)
+ .data          0x0000000000000000        0x0 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(__watchdog_support.o)
+ .bss           0x0000000000000000        0x0 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(__watchdog_support.o)
+ .text          0x0000000000000000        0x0 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(__init_stack.o)
+ .data          0x0000000000000000        0x0 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(__init_stack.o)
+ .bss           0x0000000000000000        0x0 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(__init_stack.o)
+ .text          0x0000000000000000        0x0 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(__low_level_init.o)
+ .data          0x0000000000000000        0x0 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(__low_level_init.o)
+ .bss           0x0000000000000000        0x0 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(__low_level_init.o)
+ .text          0x0000000000000000        0x0 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_copy_data.o)
+ .data          0x0000000000000000        0x0 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_copy_data.o)
+ .bss           0x0000000000000000        0x0 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_copy_data.o)
+ .text          0x0000000000000000        0x0 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_clear_bss.o)
+ .data          0x0000000000000000        0x0 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_clear_bss.o)
+ .bss           0x0000000000000000        0x0 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_clear_bss.o)
+ .text          0x0000000000000000        0x0 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(__stop_progExec__.o)
+ .data          0x0000000000000000        0x0 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(__stop_progExec__.o)
+ .bss           0x0000000000000000        0x0 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(__stop_progExec__.o)
+ .text          0x0000000000000000        0x0 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_endless_loop__.o)
+ .data          0x0000000000000000        0x0 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_endless_loop__.o)
+ .bss           0x0000000000000000        0x0 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_endless_loop__.o)
+ .text          0x0000000000000000        0x0 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_unexpected_.o)
+ .data          0x0000000000000000        0x0 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_unexpected_.o)
+ .bss           0x0000000000000000        0x0 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_unexpected_.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+sfr              0x0000000000000000 0x0000000000000010
+peripheral_8bit  0x0000000000000010 0x00000000000000f0
+peripheral_16bit 0x0000000000000100 0x0000000000000100
+ram              0x0000000000000200 0x0000000000000200 xw
+infomem          0x0000000000001000 0x0000000000000100
+infod            0x0000000000001000 0x0000000000000040
+infoc            0x0000000000001040 0x0000000000000040
+infob            0x0000000000001080 0x0000000000000040
+infoa            0x00000000000010c0 0x0000000000000040
+rom              0x000000000000c000 0x0000000000003fe0 xr
+vectors          0x000000000000ffe0 0x0000000000000020
+bsl              0x0000000000000000 0x0000000000000000
+ram2             0x0000000000000000 0x0000000000000000 xw
+ram_mirror       0x0000000000000000 0x0000000000000000 xw
+signature        0x0000000000000000 0x0000000000000000
+tinyram          0x0000000000000000 0x0000000000000000 xw
+usbram           0x0000000000000000 0x0000000000000000 xw
+far_rom          0x0000000000000000 0x0000000000000000
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o
+LOAD main.o
+LOAD os.o
+LOAD /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libgcc.a
+LOAD /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib/libc.a
+LOAD /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libgcc.a
+LOAD /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a
+                0x0000000000000040                PROVIDE (__info_segment_size, 0x40)
+                0x0000000000001000                PROVIDE (__infod, 0x1000)
+                0x0000000000001040                PROVIDE (__infoc, 0x1040)
+                0x0000000000001080                PROVIDE (__infob, 0x1080)
+                0x00000000000010c0                PROVIDE (__infoa, 0x10c0)
+                0x0000000000000000                __IE1 = 0x0
+                0x0000000000000002                __IFG1 = 0x2
+                0x0000000000000001                __IE2 = 0x1
+                0x0000000000000003                __IFG2 = 0x3
+                0x0000000000000048                __ADC10DTC0 = 0x48
+                0x0000000000000049                __ADC10DTC1 = 0x49
+                0x000000000000004a                __ADC10AE0 = 0x4a
+                0x00000000000001b0                __ADC10CTL0 = 0x1b0
+                0x00000000000001b2                __ADC10CTL1 = 0x1b2
+                0x00000000000001b4                __ADC10MEM = 0x1b4
+                0x00000000000001bc                __ADC10SA = 0x1bc
+                0x0000000000000056                __DCOCTL = 0x56
+                0x0000000000000057                __BCSCTL1 = 0x57
+                0x0000000000000058                __BCSCTL2 = 0x58
+                0x0000000000000053                __BCSCTL3 = 0x53
+                0x0000000000000059                __CACTL1 = 0x59
+                0x000000000000005a                __CACTL2 = 0x5a
+                0x000000000000005b                __CAPD = 0x5b
+                0x0000000000000128                __FCTL1 = 0x128
+                0x000000000000012a                __FCTL2 = 0x12a
+                0x000000000000012c                __FCTL3 = 0x12c
+                0x0000000000000020                __P1IN = 0x20
+                0x0000000000000021                __P1OUT = 0x21
+                0x0000000000000022                __P1DIR = 0x22
+                0x0000000000000023                __P1IFG = 0x23
+                0x0000000000000024                __P1IES = 0x24
+                0x0000000000000025                __P1IE = 0x25
+                0x0000000000000026                __P1SEL = 0x26
+                0x0000000000000041                __P1SEL2 = 0x41
+                0x0000000000000027                __P1REN = 0x27
+                0x0000000000000028                __P2IN = 0x28
+                0x0000000000000029                __P2OUT = 0x29
+                0x000000000000002a                __P2DIR = 0x2a
+                0x000000000000002b                __P2IFG = 0x2b
+                0x000000000000002c                __P2IES = 0x2c
+                0x000000000000002d                __P2IE = 0x2d
+                0x000000000000002e                __P2SEL = 0x2e
+                0x0000000000000042                __P2SEL2 = 0x42
+                0x000000000000002f                __P2REN = 0x2f
+                0x0000000000000018                __P3IN = 0x18
+                0x0000000000000019                __P3OUT = 0x19
+                0x000000000000001a                __P3DIR = 0x1a
+                0x000000000000001b                __P3SEL = 0x1b
+                0x0000000000000043                __P3SEL2 = 0x43
+                0x0000000000000010                __P3REN = 0x10
+                0x000000000000012e                __TA0IV = 0x12e
+                0x0000000000000160                __TA0CTL = 0x160
+                0x0000000000000162                __TA0CCTL0 = 0x162
+                0x0000000000000164                __TA0CCTL1 = 0x164
+                0x0000000000000166                __TA0CCTL2 = 0x166
+                0x0000000000000170                __TA0R = 0x170
+                0x0000000000000172                __TA0CCR0 = 0x172
+                0x0000000000000174                __TA0CCR1 = 0x174
+                0x0000000000000176                __TA0CCR2 = 0x176
+                0x000000000000011e                __TA1IV = 0x11e
+                0x0000000000000180                __TA1CTL = 0x180
+                0x0000000000000182                __TA1CCTL0 = 0x182
+                0x0000000000000184                __TA1CCTL1 = 0x184
+                0x0000000000000186                __TA1CCTL2 = 0x186
+                0x0000000000000190                __TA1R = 0x190
+                0x0000000000000192                __TA1CCR0 = 0x192
+                0x0000000000000194                __TA1CCR1 = 0x194
+                0x0000000000000196                __TA1CCR2 = 0x196
+                0x0000000000000060                __UCA0CTL0 = 0x60
+                0x0000000000000061                __UCA0CTL1 = 0x61
+                0x0000000000000062                __UCA0BR0 = 0x62
+                0x0000000000000063                __UCA0BR1 = 0x63
+                0x0000000000000064                __UCA0MCTL = 0x64
+                0x0000000000000065                __UCA0STAT = 0x65
+                0x0000000000000066                __UCA0RXBUF = 0x66
+                0x0000000000000067                __UCA0TXBUF = 0x67
+                0x000000000000005d                __UCA0ABCTL = 0x5d
+                0x000000000000005e                __UCA0IRTCTL = 0x5e
+                0x000000000000005f                __UCA0IRRCTL = 0x5f
+                0x0000000000000068                __UCB0CTL0 = 0x68
+                0x0000000000000069                __UCB0CTL1 = 0x69
+                0x000000000000006a                __UCB0BR0 = 0x6a
+                0x000000000000006b                __UCB0BR1 = 0x6b
+                0x000000000000006c                __UCB0I2CIE = 0x6c
+                0x000000000000006d                __UCB0STAT = 0x6d
+                0x000000000000006e                __UCB0RXBUF = 0x6e
+                0x000000000000006f                __UCB0TXBUF = 0x6f
+                0x0000000000000118                __UCB0I2COA = 0x118
+                0x000000000000011a                __UCB0I2CSA = 0x11a
+                0x0000000000000120                __WDTCTL = 0x120
+                0x00000000000010f8                __CALDCO_16MHZ = 0x10f8
+                0x00000000000010f9                __CALBC1_16MHZ = 0x10f9
+                0x00000000000010fa                __CALDCO_12MHZ = 0x10fa
+                0x00000000000010fb                __CALBC1_12MHZ = 0x10fb
+                0x00000000000010fc                __CALDCO_8MHZ = 0x10fc
+                0x00000000000010fd                __CALBC1_8MHZ = 0x10fd
+                0x00000000000010fe                __CALDCO_1MHZ = 0x10fe
+                0x00000000000010ff                __CALBC1_1MHZ = 0x10ff
+                0x00000000000010c0                __TLV_CHECKSUM = 0x10c0
+                0x00000000000010f6                __TLV_DCO_30_TAG = 0x10f6
+                0x00000000000010f7                __TLV_DCO_30_LEN = 0x10f7
+                0x00000000000010da                __TLV_ADC10_1_TAG = 0x10da
+                0x00000000000010db                __TLV_ADC10_1_LEN = 0x10db
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.text
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+
+.rela.text
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+
+.rel.rodata
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+
+.rela.rodata
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+
+.rel.data
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+
+.rela.data
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+
+.rel.bss
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+
+.rela.bss
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x000000000000c000      0x286
+                0x000000000000c000                . = ALIGN (0x2)
+ *(.init .init.*)
+ *(.init0)
+ .init0         0x000000000000c000        0x0 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_reset_vector__.o)
+                0x000000000000c000                _reset_vector__
+ *(.init1)
+ .init1         0x000000000000c000        0xc /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(__watchdog_support.o)
+                0x000000000000c000                __watchdog_support
+ *(.init2)
+ .init2         0x000000000000c00c        0x4 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(__init_stack.o)
+                0x000000000000c00c                __init_stack
+ *(.init3)
+ .init3         0x000000000000c010        0x0 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(__low_level_init.o)
+                0x000000000000c010                __low_level_init
+ *(.init4)
+ .init4         0x000000000000c010       0x18 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_copy_data.o)
+                0x000000000000c010                __do_copy_data
+ .init4         0x000000000000c028       0x16 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_clear_bss.o)
+                0x000000000000c028                __do_clear_bss
+ *(.init5)
+ *(.init6)
+ *(.init7)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000000000c03e       0x1c main.o
+                0x000000000000c03e                main
+ *(.fini9)
+ .fini9         0x000000000000c05a        0x0 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(__stop_progExec__.o)
+                0x000000000000c05a                __stop_progExec__
+ *(.fini8)
+ *(.fini7)
+ *(.fini6)
+ *(.fini5)
+ *(.fini4)
+ *(.fini3)
+ *(.fini2)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000000000000c05a        0x6 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_endless_loop__.o)
+                0x000000000000c05a                _endless_loop__
+ *(.fini .fini.*)
+                0x000000000000c060                . = ALIGN (0x2)
+                0x000000000000c060                __ctors_start = .
+ *(.ctors)
+                0x000000000000c060                __ctors_end = .
+                0x000000000000c060                __dtors_start = .
+ *(.dtors)
+                0x000000000000c060                __dtors_end = .
+                0x000000000000c060                . = ALIGN (0x2)
+ *(.text .text.* .gnu.linkonce.t.*)
+ .text          0x000000000000c060        0x4 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o
+                0x000000000000c060                __isr_14
+                0x000000000000c060                __isr_4
+                0x000000000000c060                __isr_11
+                0x000000000000c060                __isr_5
+                0x000000000000c060                __isr_2
+                0x000000000000c060                __isr_10
+                0x000000000000c060                __isr_7
+                0x000000000000c060                __isr_0
+                0x000000000000c060                __isr_8
+                0x000000000000c060                __isr_3
+                0x000000000000c060                __isr_12
+                0x000000000000c060                __isr_13
+                0x000000000000c060                __isr_6
+                0x000000000000c060                __isr_1
+ .text.switch_off
+                0x000000000000c064       0x10 main.o
+                0x000000000000c064                switch_off
+ .text.switch_on
+                0x000000000000c074       0x12 main.o
+                0x000000000000c074                switch_on
+ .text.os_init_timer
+                0x000000000000c086       0x1a os.o
+                0x000000000000c086                os_init_timer
+ .text.os_init  0x000000000000c0a0       0x28 os.o
+                0x000000000000c0a0                os_init
+ .text.os_task_init
+                0x000000000000c0c8       0x16 os.o
+                0x000000000000c0c8                os_task_init
+ .text.os_push_task
+                0x000000000000c0de       0x52 os.o
+                0x000000000000c0de                os_push_task
+ .text.Timer_A  0x000000000000c130       0x44 os.o
+                0x000000000000c130                Timer_A
+                0x000000000000c130                __isr_9
+ .text          0x000000000000c174      0x110 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib/libc.a(malloc.o)
+                0x000000000000c174                malloc
+                0x000000000000c27c                free
+ .text.crt0     0x000000000000c284        0x2 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_unexpected_.o)
+                0x000000000000c284                _unexpected_
+                0x000000000000c286                . = ALIGN (0x2)
+
+.rodata         0x000000000000c286        0x0
+                0x000000000000c286                . = ALIGN (0x2)
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+                0x000000000000c286                . = ALIGN (0x2)
+                0x000000000000c286                _etext = .
+
+.data           0x0000000000000200        0x0 load address 0x000000000000c286
+                0x0000000000000200                . = ALIGN (0x2)
+                0x0000000000000200                PROVIDE (__data_start, .)
+ *(.data .data.* .gnu.linkonce.d.*)
+                0x0000000000000200                . = ALIGN (0x2)
+                0x0000000000000200                _edata = .
+                0x000000000000c286                PROVIDE (__data_load_start, LOADADDR (.data))
+                0x0000000000000000                PROVIDE (__data_size, SIZEOF (.data))
+
+.bss            0x0000000000000200        0x4 load address 0x000000000000c286
+                0x0000000000000200                PROVIDE (__bss_start, .)
+ *(.bss .bss.*)
+ .bss.os_current_task
+                0x0000000000000200        0x2 os.o
+                0x0000000000000200                os_current_task
+ .bss           0x0000000000000202        0x1 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib/libc.a(malloc.o)
+ *(COMMON)
+                0x0000000000000204                . = ALIGN (0x2)
+ *fill*         0x0000000000000203        0x1 00
+                0x0000000000000204                PROVIDE (__bss_end, .)
+                0x0000000000000004                PROVIDE (__bss_size, SIZEOF (.bss))
+
+.noinit         0x0000000000000204        0x2 load address 0x000000000000c286
+                0x0000000000000204                PROVIDE (__noinit_start, .)
+ *(.noinit .noinit.*)
+ .noinit.crt0   0x0000000000000204        0x2 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(__watchdog_support.o)
+                0x0000000000000204                __wdt_clear_value
+                0x0000000000000206                . = ALIGN (0x2)
+                0x0000000000000206                PROVIDE (__noinit_end, .)
+                0x0000000000000206                . = ALIGN (0x2)
+                0x0000000000000206                _end = .
+
+.infomem        0x0000000000001000        0x0
+ *(.infomem)
+                0x0000000000001000                . = ALIGN (0x2)
+ *(.infomem.*)
+
+.infomemnobits  0x0000000000001000        0x0
+ *(.infomemnobits)
+                0x0000000000001000                . = ALIGN (0x2)
+ *(.infomemnobits.*)
+
+.infoa
+ *(.infoa .infoa.*)
+
+.infob
+ *(.infob .infob.*)
+
+.infoc
+ *(.infoc .infoc.*)
+
+.infod
+ *(.infod .infod.*)
+
+.vectors        0x000000000000ffe0       0x20
+                0x000000000000ffe0                PROVIDE (__vectors_start, .)
+ *(.vectors*)
+ .vectors       0x000000000000ffe0       0x20 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o
+                0x000000000000ffe0                __ivtbl_16
+                0x0000000000010000                _vectors_end = .
+
+.fartext        0x0000000000000000        0x0
+                0x0000000000000000                . = ALIGN (0x2)
+ *(.fartext)
+                0x0000000000000000                . = ALIGN (0x2)
+ *(.fartext.*)
+                0x0000000000000000                _efartext = .
+
+.profiler
+ *(.profiler)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000       0xcc
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x1c main.o
+ .debug_aranges
+                0x000000000000001c       0x24 os.o
+ .debug_aranges
+                0x0000000000000040       0x14 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib/libc.a(malloc.o)
+ .debug_aranges
+                0x0000000000000054       0x14 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(__watchdog_support.o)
+ .debug_aranges
+                0x0000000000000068       0x14 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(__init_stack.o)
+ .debug_aranges
+                0x000000000000007c       0x14 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_copy_data.o)
+ .debug_aranges
+                0x0000000000000090       0x14 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_clear_bss.o)
+ .debug_aranges
+                0x00000000000000a4       0x14 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_endless_loop__.o)
+ .debug_aranges
+                0x00000000000000b8       0x14 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_unexpected_.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000      0x6f3
+ *(.debug_info)
+ .debug_info    0x0000000000000000      0x10b main.o
+ .debug_info    0x000000000000010b      0x1f1 os.o
+ .debug_info    0x00000000000002fc      0x151 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib/libc.a(malloc.o)
+ .debug_info    0x000000000000044d       0x71 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(__watchdog_support.o)
+ .debug_info    0x00000000000004be       0x71 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(__init_stack.o)
+ .debug_info    0x000000000000052f       0x71 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_copy_data.o)
+ .debug_info    0x00000000000005a0       0x71 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_clear_bss.o)
+ .debug_info    0x0000000000000611       0x71 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_endless_loop__.o)
+ .debug_info    0x0000000000000682       0x71 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_unexpected_.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x0000000000000000      0x38d
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000       0xb0 main.o
+ .debug_abbrev  0x00000000000000b0      0x161 os.o
+ .debug_abbrev  0x0000000000000211      0x104 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib/libc.a(malloc.o)
+ .debug_abbrev  0x0000000000000315       0x14 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(__watchdog_support.o)
+ .debug_abbrev  0x0000000000000329       0x14 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(__init_stack.o)
+ .debug_abbrev  0x000000000000033d       0x14 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_copy_data.o)
+ .debug_abbrev  0x0000000000000351       0x14 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_clear_bss.o)
+ .debug_abbrev  0x0000000000000365       0x14 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_endless_loop__.o)
+ .debug_abbrev  0x0000000000000379       0x14 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_unexpected_.o)
+
+.debug_line     0x0000000000000000      0x506
+ *(.debug_line)
+ .debug_line    0x0000000000000000       0xfe main.o
+ .debug_line    0x00000000000000fe      0x120 os.o
+ .debug_line    0x000000000000021e       0xe1 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib/libc.a(malloc.o)
+ .debug_line    0x00000000000002ff       0x56 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(__watchdog_support.o)
+ .debug_line    0x0000000000000355       0x54 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(__init_stack.o)
+ .debug_line    0x00000000000003a9       0x5a /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_copy_data.o)
+ .debug_line    0x0000000000000403       0x5a /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_clear_bss.o)
+ .debug_line    0x000000000000045d       0x55 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_endless_loop__.o)
+ .debug_line    0x00000000000004b2       0x54 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_unexpected_.o)
+
+.debug_frame    0x0000000000000000       0xe6
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0x36 main.o
+ .debug_frame   0x0000000000000036       0x5e os.o
+ .debug_frame   0x0000000000000094       0x52 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib/libc.a(malloc.o)
+
+.debug_str      0x0000000000000000      0x221
+ *(.debug_str)
+ .debug_str     0x0000000000000000       0xf9 main.o
+                                        0x13e (size before relaxing)
+ .debug_str     0x00000000000000f9       0x9a os.o
+                                        0x1ae (size before relaxing)
+ .debug_str     0x0000000000000193       0x8e /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib/libc.a(malloc.o)
+                                        0x147 (size before relaxing)
+
+.debug_loc      0x0000000000000000      0x177
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000       0x49 os.o
+ .debug_loc     0x0000000000000049      0x12e /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib/libc.a(malloc.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000       0x34
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x10 main.o
+ .debug_ranges  0x0000000000000010       0x18 os.o
+ .debug_ranges  0x0000000000000028        0xc /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib/libc.a(malloc.o)
+                0x0000000000000400                PROVIDE (__stack, (ORIGIN (ram) + 0x200))
+                0x000000000000c286                PROVIDE (__data_start_rom, _etext)
+                0x000000000000c286                PROVIDE (__data_end_rom, (_etext + SIZEOF (.data)))
+OUTPUT(test01.out elf32-msp430)
+
+Cross Reference Table
+
+Symbol                                            File
+Timer_A                                           os.o
+__P1DIR                                           main.o
+__P1OUT                                           main.o
+__TA0CCR0                                         os.o
+__TA0CCTL0                                        os.o
+__TA0CTL                                          os.o
+__WDTCTL                                          /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_clear_bss.o)
+                                                  /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_copy_data.o)
+                                                  /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(__watchdog_support.o)
+                                                  os.o
+__bss_size                                        /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_clear_bss.o)
+__bss_start                                       /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_clear_bss.o)
+__data_load_start                                 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_copy_data.o)
+__data_size                                       /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_copy_data.o)
+__data_start                                      /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_copy_data.o)
+__do_clear_bss                                    /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_clear_bss.o)
+                                                  /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_reset_vector__.o)
+__do_copy_data                                    /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_copy_data.o)
+                                                  /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_reset_vector__.o)
+__init_stack                                      /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(__init_stack.o)
+                                                  /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_reset_vector__.o)
+__isr_0                                           /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o
+__isr_1                                           /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o
+__isr_10                                          /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o
+__isr_11                                          /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o
+__isr_12                                          /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o
+__isr_13                                          /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o
+__isr_14                                          /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o
+__isr_2                                           /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o
+__isr_3                                           /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o
+__isr_4                                           /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o
+__isr_5                                           /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o
+__isr_6                                           /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o
+__isr_7                                           /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o
+__isr_8                                           /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o
+__isr_9                                           os.o
+                                                  /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o
+__ivtbl_16                                        /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o
+__low_level_init                                  /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(__low_level_init.o)
+                                                  /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_reset_vector__.o)
+__noinit_end                                      /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib/libc.a(malloc.o)
+__stack                                           /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(__init_stack.o)
+__stop_progExec__                                 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(__stop_progExec__.o)
+                                                  /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_reset_vector__.o)
+__watchdog_support                                /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(__watchdog_support.o)
+                                                  /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_reset_vector__.o)
+__wdt_clear_value                                 /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(__watchdog_support.o)
+                                                  /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_clear_bss.o)
+                                                  /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_copy_data.o)
+_endless_loop__                                   /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_endless_loop__.o)
+                                                  /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_reset_vector__.o)
+_reset_vector__                                   /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_reset_vector__.o)
+                                                  /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o
+_unexpected_                                      /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/libcrt0.a(_unexpected_.o)
+                                                  /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o
+buffcount                                         main.o
+buffer                                            main.o
+free                                              /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib/libc.a(malloc.o)
+main                                              main.o
+malloc                                            /home/doeringc/Documents/home/c/msp430/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib/libc.a(malloc.o)
+                                                  os.o
+os_current_task                                   os.o
+os_init                                           os.o
+                                                  main.o
+os_init_timer                                     os.o
+os_push_task                                      os.o
+                                                  main.o
+os_task_init                                      os.o
+switch_off                                        main.o
+switch_on                                         main.o
